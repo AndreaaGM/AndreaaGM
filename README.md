@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm AndreaGM</h1>
-<h3 align="center">A passionate frontend developer from Mexico</h3>
+<h1 align="center">Hi 👋, I'm Andrea</h1>
+<h3 align="center">A frontend developer student from Mexico</h3>
 
-- 🌱 I’m currently learning **Certified Tech Developer**
+- 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **andreaagam@outlook.es**
 
